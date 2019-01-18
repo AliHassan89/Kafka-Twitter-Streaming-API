@@ -1,0 +1,4 @@
+org\interview\properties\CrawlerPropertiesTest.class
+org\interview\properties\OauthPropertiesTest.class
+org\interview\properties\KafkaPropertiesTest.class
+org\interview\dto\TweetInfoDtoTest.class

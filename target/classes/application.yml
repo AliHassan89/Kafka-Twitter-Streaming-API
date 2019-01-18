@@ -1,0 +1,19 @@
+spring:
+  application:
+    name: java-exercise
+
+server:
+  port: 50177
+
+oauth-properties:
+  consumerKey: RLSrphihyR4G2UxvA0XBkLAdl
+  consumerSecret: FTz2KcP1y3pcLw0XXMX5Jy3GTobqUweITIFy4QefullmpPnKm4
+
+crawler-properties:
+  # any number of keywords can be defined. Keywords should be separated by comma ","
+  keywords: bieber
+  maxRecordsLimit: 100
+  maxTimeLimit: 30000
+
+kafka-properties:
+  bootstrap-servers: localhost:9092
